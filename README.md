@@ -1,5 +1,5 @@
 # Image-Selector
-This is a project that I spun-off from an online project for expanding cards, in which the premise was that when you click an image it would expand and fill more of the container.
+This is a project that I spun-off from a basic online project for expanding cards, in which the premise was that when you click an image it would expand and fill more of the container.
 
 #### New Feature: 
 
